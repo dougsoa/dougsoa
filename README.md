@@ -11,4 +11,4 @@ I'm studying Systems Analysis and Development and I'm passionate about technolog
 #### 📌 Living in Porto Alegre, Rio Grande do Sul, Brazil
 #### 💻 HTML | CSS | Java Script | Git
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dougsoa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dougsoa&theme=onedark_duo&fire=DD2727&dates=39BCDD&currStreakLabel=39B831&ring=DD630D&currStreakNum=1BB331)](https://git.io/streak-stats)
