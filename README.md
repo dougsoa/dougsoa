@@ -12,3 +12,9 @@ I'm studying Systems Analysis and Development and I'm passionate about technolog
 #### 💻 HTML | CSS | Java Script | Git
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dougsoa&theme=onedark_duo&fire=DD2727&dates=39BCDD&currStreakLabel=39B831&ring=DD630D&currStreakNum=1BB331)](https://git.io/streak-stats)
+
+<div align="center">
+  <a href="https://github.com/dougsoa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
